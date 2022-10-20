@@ -9,12 +9,13 @@
     "antd": "^4.23.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "dev": "react-scripts start",
-    "start": "react-scripts start",
+    "start": "react-app-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -38,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "react-app-alias": "^2.2.2",
     "sass": "^1.55.0"
   }
 }
